@@ -1,2 +1,2 @@
-# hazelnet.ch
+# HAZELNET.CH
 Official app of hazelnet team
